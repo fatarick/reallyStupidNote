@@ -1,6 +1,4 @@
 import keyboard
-import os
-
 
 def save_file():
     name=input("Name for the file: ")
